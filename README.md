@@ -43,13 +43,13 @@ Note:
 - **CSS** **file** **SHOULD NOT be renamed**
 
 
-[Download MDX]()
+[Download MDX](https://github.com/dolanskurd/KaweDict/blob/master/Ferheng%20Kawe/Farhangi%20Kawa.mdx)
 
 Download MDD (N/A)
 
-[Download CSS]()
+[Download CSS](https://github.com/dolanskurd/KaweDict/blob/master/Ferheng%20Kawe/KD.css)
 
-[Download Dictionary Icon]()
+[Download Dictionary Icon](https://github.com/dolanskurd/KaweDict/blob/master/Ferheng%20Kawe/Farhangi%20Kawa.png)
 
 
 
