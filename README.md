@@ -99,7 +99,7 @@ I hope you like this dictionary. Feel free to reach out if you have questions or
 
 ## License
 
-English to Kurdish and Thesaurus is available under the **MIT license**.
+Ferhengî Kawe is available under the **MIT license**.
 
 
 
